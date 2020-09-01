@@ -12,4 +12,5 @@ body {
 .top-wrapper {
   padding: 180px 0 100px0;
   background-image: url(topimage.png);
+  background-size: cover;
 }
