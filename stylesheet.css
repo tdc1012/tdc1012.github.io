@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-  width: 1000px;
+  width: 1800px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -13,4 +13,5 @@ body {
   padding: 180px 0 100px0;
   background-image: url(topimage.png);
   background-size: cover;
+  color: white;
 }
