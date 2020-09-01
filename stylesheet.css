@@ -1,1 +1,15 @@
+body {
+  margin: 0;
+  font-family: "HiraMinProNーW6"
+}
 
+.container {
+  width: 1000px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px0;
+  background-image:url();
+}
