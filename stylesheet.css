@@ -4,13 +4,13 @@ body {
 }
 
 .container {
-  width: 1300px;
-  padding: 0 80px;
+  width: 1400px;
+  padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-wrapper {
-  padding: 180px 0 100px0;
+  padding: 180px 0 100px 0;
   background-image: url(topimage.png);
   background-size: cover;
   color: white;
