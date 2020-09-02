@@ -29,8 +29,8 @@ body {
 
 
 header {
-  height: 180px;
-  background-color: #0000;
+  height: 100px;
+  background-color: white;
 }
 
 .logo {
@@ -40,7 +40,8 @@ header {
 
 .header-right {
   float: right;
-  background-color: #0000;
+  background-color: white;
+  color: #000000;
 }
 
 .header-right:hover {
