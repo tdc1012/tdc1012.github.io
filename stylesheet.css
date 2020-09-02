@@ -37,3 +37,12 @@ header {
   width: 150px;
   margin: auto;
 }
+
+.header-right {
+  float: right;
+  background-color: #0000;
+}
+
+.header-right:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
