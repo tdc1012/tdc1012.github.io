@@ -62,8 +62,9 @@ header {
 
 .header-right {
   float: right;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.9);
   transition: all 0.5s;
+  height: 80px;
 }
 
 .header-right:hover {
@@ -73,6 +74,6 @@ header {
 .header-right a {
   line-height: 80px;
   padding: 0 25px;
-  color: white;
+  color: #fff;
   display: block;
 }
