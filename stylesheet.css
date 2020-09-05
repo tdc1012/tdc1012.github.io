@@ -1,28 +1,42 @@
-body {
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
   margin: 0;
-  font-family: "HiraMinProNーW6"
+  padding: 0;
 }
 
-.container {
-  width: 1800px;
-  padding: 0 15px;
-  margin: 0 auto;
+body {
+  font-family: "Hannari";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(topimage.png);
   background-size: cover;
-  color: white;
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
 }
 
 .top-wrapper h1{
   opacity: 0.7;
-  font-size: 40px;
-  letter-spacing: 3px;
+  font-size: 45px;
+  letter-spacing: 5px;
 }
 
-.top-wrapper h2{
+.top-wrapper p{
   opacity: 0.7;
   font-size: 25px;
 }
@@ -32,6 +46,9 @@ header {
   height: 80px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
 }
 
 .logo {
@@ -57,5 +74,5 @@ header {
   line-height: 65px;
   padding: 0 25px;
   color: white;
-  display:block;
+  display: block;
 }
