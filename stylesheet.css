@@ -43,6 +43,36 @@ a {
   float: left;
 }
 
+.signup {
+  background-color: #239b76;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
 
 header {
   height: 80px;
@@ -71,7 +101,8 @@ header {
 }
 
 .header-right:hover {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(34,49,52,0.9);
+  color: #808080;
 }
 
 .header-right a {
