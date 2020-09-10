@@ -101,7 +101,7 @@ header {
 }
 
 .header-right:hover {
-  background-color: rgba(34,49,52,0.9);
+  background-color: rgba(34,49,52,0.6);
   color: #808080;
 }
 
