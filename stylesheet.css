@@ -82,13 +82,13 @@ header {
 }
 
 .logo {
-  width: 150px;
-  margin-top; 20px;
+  width: 200px;
+  margin-top; 40px;
   float: left;
 }
 
 .header-left {
-  float: left;
+  float: center;
 }
 
 .header-right {
@@ -99,7 +99,7 @@ header {
 }
 
 .header-right:hover {
-  background-color: rgba(34,49,52,0.3);
+  background-color: rgba(34,49,52,0.1);
   color: #808080;
 }
 
