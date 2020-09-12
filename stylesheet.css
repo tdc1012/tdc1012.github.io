@@ -140,13 +140,6 @@ header {
   width: 25%;
 }
 
-.season-icon img {
-  line-height: 80px;
-  padding: 0 25px;
-  color: #000;
-  display: block;
-}
-
 .text-contents {
   width: 80%;
   display: inline-block;
