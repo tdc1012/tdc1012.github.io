@@ -137,12 +137,7 @@ header {
 
 .season {
   float: left;
-  width: 80px;
-}
-
-.season-icon:hover {
-  position: relative;
-  background-color: rgba(34,49,52,0.1);
+  width: 25%;
 }
 
 .season-icon img {
