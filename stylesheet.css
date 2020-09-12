@@ -140,8 +140,16 @@ header {
   width: 25%;
 }
 
-.season-icon {
+.season-icon:hover {
   position: relative;
+  background-color: rgba(34,49,52,0.1);
+}
+
+.season-icon img {
+  line-height: 80px;
+  padding: 0 25px;
+  color: #000;
+  display: block;
 }
 
 .text-contents {
