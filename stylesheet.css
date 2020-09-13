@@ -134,6 +134,7 @@ header {
 .heading h2 {
   font-weight: normal;
   border-bottom: 2px solid #dee7ec;
+  padding-bottom: 10px;
 }
 
 .season {
@@ -168,6 +169,7 @@ header {
 .heading h2 {
   font-weight: normal;
   border-bottom: 2px solid #dee7ec;
+  padding-bottom: 10px;
 }
 
 .area {
@@ -181,10 +183,6 @@ header {
 
 .area-icon img {
   height: 350px;
-}
-
-.area a {
-  float: left;
 }
 
 .area p {
