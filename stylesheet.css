@@ -173,11 +173,14 @@ header {
   width: 50%
 }
 
+.season {
+  position: relative;
+}
 
 .area-icon img {
   height: 500px;
 }
 
 .area-icon2 img {
-  height: 350px;
+  height: 300px;
 }
