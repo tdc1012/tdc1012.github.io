@@ -173,12 +173,16 @@ header {
   width: 50%;
 }
 
-.area-icon {
+.area-icon,area2-icon {
   position: relative;
 }
 
 .area-icon img {
   height: 400px;
+}
+
+area2-icon img {
+  height: 250px;
 }
 
 .area2 p {
