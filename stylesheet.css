@@ -168,11 +168,8 @@ header {
   font-weight: normal;
 }
 
-.areas {
-  float:left;
-}
-
 .area {
+  float: left;
   width: 50%;
 }
 
