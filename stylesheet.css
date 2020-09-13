@@ -174,8 +174,10 @@ header {
 }
 
 
-.area img{
+.area-icon img {
   height: 500px;
 }
 
-.
+.area-icon2 img {
+  height: 350px;
+}
