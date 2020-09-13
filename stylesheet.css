@@ -120,7 +120,7 @@ header {
 }
 
 .season-wrapper {
-  height: 1000px;
+  height: 600px;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -155,7 +155,7 @@ header {
 }
 
 .area-wrapper {
-  height: 1000px;
+  height: 600px;
   background-color: #f7f7f7;
   text-align: center;
   padding-top: 180px;
@@ -165,7 +165,7 @@ header {
 .heading {
   color: #5f5d60;
   padding-top: 60px;
-  padding-bottom: 50px;
+  padding-bottom: 180px;
 }
 
 .heading h2 {
@@ -200,6 +200,8 @@ header {
 .footer-logo {
   float: left;
   font-size: 35px;
+  padding: 30px;
+  letter-spacing: 1.5px;
 }
 
 .footer-list {
