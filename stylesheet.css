@@ -171,6 +171,13 @@ header {
 .area {
   float: left;
   width: 50%;
+}
+
+.area-icon {
+  position: relative;
+}
+
+.area-icon2 {
   position: relative;
 }
 
