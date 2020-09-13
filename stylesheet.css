@@ -157,8 +157,9 @@ header {
 }
 
 .fish-pic {
+  float: left;
   position: relative;
-  width: 150px;
+  width: 25%;
 }
 
 .area-wrapper {
