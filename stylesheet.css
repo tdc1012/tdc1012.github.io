@@ -133,6 +133,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
+  border-bottom: 2px solid #dee7ec;
 }
 
 .season {
@@ -166,6 +167,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
+  border-bottom: 2px solid #dee7ec;
 }
 
 .area {
