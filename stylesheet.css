@@ -155,6 +155,10 @@ header {
   color: #b3aeb5;
 }
 
+.fish-pic {
+  position: relative;
+}
+
 .area-wrapper {
   height: 1000px;
   background-color: #f7f7f7;
