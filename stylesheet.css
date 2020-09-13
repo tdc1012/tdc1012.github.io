@@ -160,6 +160,7 @@ header {
   float: left;
   width: 25%;
   position: relative;
+  height: 80px;
 }
 
 .area-wrapper {
