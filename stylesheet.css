@@ -134,6 +134,7 @@ header {
 .heading h2 {
   font-weight: normal;
   border-bottom: 2px solid #dee7ec;
+  padding-top: 100px;
   padding-bottom: 10px;
 }
 
@@ -206,6 +207,7 @@ header {
 
 .footer-list {
   float: right;
+  transition: all 0.5s;
 }
 
 .footer-list:hover {
