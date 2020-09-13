@@ -120,14 +120,14 @@ header {
 }
 
 .season-wrapper {
-  height: 280px;
+  height: 600px;
   background-color: #f7f7f7;
   text-align: center;
 }
 
 .heading {
   color: #5f5d60;
-  padding-top: 60px;
+  padding-top: 130px;
   padding-bottom: 50px;
 }
 
@@ -169,5 +169,5 @@ header {
 }
 
 .area img{
-  height: 450px;
+  height: 500px;
 }
