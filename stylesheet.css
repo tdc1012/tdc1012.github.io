@@ -120,7 +120,7 @@ header {
 }
 
 .season-wrapper {
-  height: 600px;
+  height: 400px;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -167,6 +167,12 @@ header {
 .heading h2 {
   font-weight: normal;
 }
+
+.area {
+  float: left;
+  width: 50%
+}
+
 
 .area img{
   height: 500px;
