@@ -170,17 +170,16 @@ header {
 
 .area {
   float: left;
-  width: 50%
+  width: 50%;
+  position: relative;
 }
 
 .area-icon img {
   height: 500px;
-  float: left;
 }
 
 .area-icon2 img {
   height: 300px;
-  float: right;
 }
 
 .area p {
