@@ -173,16 +173,14 @@ header {
   width: 50%
 }
 
-.area {
-  position: relative;
-}
-
 .area-icon img {
   height: 500px;
+  float: left;
 }
 
 .area-icon2 img {
   height: 300px;
+  float: right;
 }
 
 .area p {
