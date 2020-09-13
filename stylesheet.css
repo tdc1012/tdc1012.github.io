@@ -168,7 +168,7 @@ header {
   font-weight: normal;
 }
 
-.area {
+.area,area2 {
   float: left;
   width: 50%;
 }
@@ -181,6 +181,6 @@ header {
   height: 400px;
 }
 
-.area p {
+.area2 p {
   font-size: 30px;
 }
