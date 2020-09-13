@@ -107,12 +107,12 @@ header {
   height: 80px;
 }
 
-.header-right:hover {
+.header-list:hover {
   background-color: rgba(34,49,52,0.1);
   color: #808080;
 }
 
-.header-right li {
+.header-list li {
   line-height: 80px;
   padding: 0 25px;
   color: #000;
