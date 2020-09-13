@@ -212,3 +212,7 @@ header {
   background-color: rgba(34,49,52,0.1);
   color: #808080;
 }
+
+.footer-list li {
+  padding: 20px;
+}
