@@ -127,7 +127,7 @@ header {
 
 .heading {
   color: #5f5d60;
-  padding-top: 180px;
+  padding-top: 350px;
   padding-bottom: 50px;
 }
 
@@ -158,7 +158,8 @@ header {
   height: 1000px;
   background-color: #f7f7f7;
   text-align: center;
-  padding-bottom: 50px;
+  padding-top: 180px;
+  padding-bottom: 100px;
 }
 
 .heading {
