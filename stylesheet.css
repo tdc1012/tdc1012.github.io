@@ -168,12 +168,12 @@ header {
   font-weight: normal;
 }
 
-.area,area2 {
+.area {
   float: left;
   width: 50%;
 }
 
-.area-icon,area2-icon {
+.area-icon {
   position: relative;
 }
 
@@ -181,6 +181,6 @@ header {
   height: 300px;
 }
 
-.area2 a {
-  font-size: 30px;
+.area p {
+  font-size: 25px;
 }
