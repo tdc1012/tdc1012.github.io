@@ -181,6 +181,10 @@ header {
   height: 300px;
 }
 
+.area a {
+  float: left;
+}
+
 .area p {
   font-size: 25px;
 }
