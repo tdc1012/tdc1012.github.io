@@ -157,14 +157,20 @@ header {
 }
 
 .fish {
-  display: inline-block;
   float: left;
   width: 25%;
-  height: 20px;
 }
 
 .fish-pic {
+  display: inline-block;
   position: relative;
+  height: 80px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.fish-pic img {
+  height: 100%;
 }
 
 .area-wrapper {
