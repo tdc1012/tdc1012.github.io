@@ -158,8 +158,8 @@ header {
 
 .fish {
   float: left;
-  width: 50px;
-  height: auto;
+  width: 25%;
+  height: 20px;
 }
 
 .fish-pic {
