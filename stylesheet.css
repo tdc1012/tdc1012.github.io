@@ -156,10 +156,13 @@ header {
   color: #b3aeb5;
 }
 
-.fish-pic {
+.fish {
   float: left;
+  width: 25%;
+}
+
+.fish-pic {
   position: relative;
-  width: 50px;
 }
 
 .area-wrapper {
