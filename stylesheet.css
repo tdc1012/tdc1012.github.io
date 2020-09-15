@@ -164,7 +164,7 @@ header {
 .fish-pic {
   display: inline-block;
   position: relative;
-  height: 210px;
+  height: 220px;
   margin-right: 10px;
   margin-bottom: 10px;
 }
@@ -236,5 +236,5 @@ header {
 }
 
 .footer-list li {
-  padding: 30px;
+  padding: 40px;
 }
