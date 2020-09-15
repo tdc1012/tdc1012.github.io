@@ -1,1 +1,84 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  height: 80px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  height: 100%;
+  float: left;
+  padding-right: 200px;
+}
+
+.header-logo {
+  float: left;
+}
+
+.header-list {
+  float: left;
+  background-color: rgba(255, 255, 255, 0.9);
+  transition: all 0.5s;
+  height: 80px;
+}
+
+.header-list:hover {
+  background-color: rgba(34,49,52,0.1);
+  color: #808080;
+}
+
+.header-list li {
+  line-height: 80px;
+  padding: 0 25px;
+  color: #000;
+  display: block;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(buri4.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+  opacity: 0.45;
+  height: 500px;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.main h1{
+  letter-spacing: 8px;
+  font-size: 75px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.main p{
+  letter-spacing: 6px;
+  font-size: 40px;
+}
 
