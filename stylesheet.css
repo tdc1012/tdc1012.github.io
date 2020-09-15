@@ -90,8 +90,7 @@ header {
 }
 
 .logo {
-  width: 170px;
-  margin-top; 40px;
+  height: 100%;
   float: left;
   padding-right: 400px;
 }
@@ -128,15 +127,13 @@ header {
 
 .heading {
   color: #5f5d60;
-  padding-top: 350px;
-  padding-bottom: 50px;
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
 
 .heading h2 {
   font-weight: normal;
   border-bottom: 2px solid #dee7ec;
-  padding-top: 100px;
-  padding-bottom: 10px;
 }
 
 .season {
@@ -151,7 +148,8 @@ header {
 .text-contents {
   width: 80%;
   display: inline-block;
-  padding-top: 15px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   font-size: 16px;
   color: #b3aeb5;
 }
@@ -164,7 +162,7 @@ header {
 .fish-pic {
   display: inline-block;
   position: relative;
-  height: 220px;
+  height: 235px;
   margin-right: 10px;
   margin-bottom: 10px;
 }
@@ -177,20 +175,8 @@ header {
   height: 1500px;
   background-color: #f7f7f7;
   text-align: center;
-  padding-top: 180px;
+  padding-top: 140px;
   padding-bottom: 300px;
-}
-
-.heading {
-  color: #5f5d60;
-  padding-top: 60px;
-  padding-bottom: 180px;
-}
-
-.heading h2 {
-  font-weight: normal;
-  border-bottom: 2px solid #dee7ec;
-  padding-bottom: 10px;
 }
 
 .area {
@@ -213,15 +199,15 @@ header {
 
 .footer {
   background-color: black;
-  height: 90px;
-  padding: 40px;
+  height: 70px;
+  padding: 25px;
   color: white;
 }
 
 .footer-logo {
   float: left;
   font-size: 35px;
-  padding: 30px;
+  padding: 15px;
   letter-spacing: 1.5px;
 }
 
@@ -236,5 +222,5 @@ header {
 }
 
 .footer-list li {
-  padding: 40px;
+  padding: 30px;
 }
